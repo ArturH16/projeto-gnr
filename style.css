@@ -4,6 +4,7 @@
     padding: 0px;
 }
 
+
 :root {
     --cor00: #590212;
     --cor01: #9A0229;
@@ -26,9 +27,16 @@ header p {
     color: white;
 }
 
+main {
+    margin-left: 10px;
+    margin-right: 10px;
+}
 main article {
     margin-top: 20px;
+    font-size: 2.9vh;
+    line-height: 1.7em;
 }
+
 
 main p {
     text-align: justify;
